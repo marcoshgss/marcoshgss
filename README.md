@@ -1,4 +1,4 @@
-### Hello World 🌎
+### Hello, World 🌎
 
 _Meu nome é Marcos Henrique e é uma honra estar compartilhando os meus projetos sobre front-end para vocês._
 
