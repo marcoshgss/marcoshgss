@@ -1,11 +1,3 @@
-<h1 align="left">Marcos Henrique</h1>
-
-###
-
-<p align="left">Olá! 👋<br><br>Sou Marcos Henrique, desenvolvedor front-end. Confira meus projetos. 🚀🚀🚀</p>
-
-###
-
 <h2 align="left">About Me</h2>
 
 ###
