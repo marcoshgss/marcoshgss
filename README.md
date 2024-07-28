@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Front-end web development 💻<br>- Future Full Stack Web Developer 😎<br>- Bachelor's Degree in Information Systems 📚<br>- Freelancer 💼<br>- I'm currently learning: node, php end react. 👨‍💻<br>- Be renowned in the programming field 🎯<br>- My hobbies are: walking, bodybuilding, sleeping and watching movies/series 🙂</p>
+<p align="left">- Front-end web development 💻<br>- Future Full Stack Web Developer 😎<br>- Bachelor's Degree in Information Systems 📚<br>- Freelancer 💼<br>- I'm currently learning: node end react. 👨‍💻<br>- Be renowned in the programming field 🎯<br>- My hobbies are: walking, bodybuilding, sleeping and watching movies/series 🙂</p>
 
 ###
 
@@ -19,19 +19,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
