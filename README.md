@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">- Front-end web development 💻<br>- Future Full Stack Web Developer 😎<br>- Bachelor's Degree in Information Systems 📚<br>- I'm currently learning: node end react. 👨‍💻<br>- Be renowned in the programming field 🎯<br>- My hobbies are: walking, bodybuilding, sleeping and watching movies/series 🙂</p>
+<p align="left">- Future Full Stack Web Developer 😎<br>- Bachelor's Degree in Information Systems 📚<br>- I'm currently learning: node end react. 👨‍💻<br>- Be renowned in the programming field 🎯<br>- My hobbies are: walking, bodybuilding, sleeping and watching movies/series 🙂</p>
 
 ###
 
